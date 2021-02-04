@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\New folder\\quan-ly-ca-nhan\\QLCN\\QLCN.csproj": {}
+    "F:\\New folder\\quan-ly-ca-nhan\\QLCN.Application\\QLCN.Application.csproj": {}
   },
   "projects": {
-    "F:\\New folder\\quan-ly-ca-nhan\\QLCN\\QLCN.csproj": {
+    "F:\\New folder\\quan-ly-ca-nhan\\QLCN.Application\\QLCN.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\New folder\\quan-ly-ca-nhan\\QLCN\\QLCN.csproj",
-        "projectName": "QLCN",
-        "projectPath": "F:\\New folder\\quan-ly-ca-nhan\\QLCN\\QLCN.csproj",
+        "projectUniqueName": "F:\\New folder\\quan-ly-ca-nhan\\QLCN.Application\\QLCN.Application.csproj",
+        "projectName": "QLCN.Application",
+        "projectPath": "F:\\New folder\\quan-ly-ca-nhan\\QLCN.Application\\QLCN.Application.csproj",
         "packagesPath": "C:\\Users\\OAI-IICM\\.nuget\\packages\\",
-        "outputPath": "F:\\New folder\\quan-ly-ca-nhan\\QLCN\\obj\\",
+        "outputPath": "F:\\New folder\\quan-ly-ca-nhan\\QLCN.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\OAI-IICM\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -37,18 +37,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[5.0.2, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[5.0.2, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -60,9 +48,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
