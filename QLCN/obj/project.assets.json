@@ -764,11 +764,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\New folder\\QuanLyCaNhanDXH\\QLCN\\QLCN.csproj",
+      "projectUniqueName": "F:\\New folder\\quan-ly-ca-nhan\\QLCN\\QLCN.csproj",
       "projectName": "QLCN",
-      "projectPath": "F:\\New folder\\QuanLyCaNhanDXH\\QLCN\\QLCN.csproj",
+      "projectPath": "F:\\New folder\\quan-ly-ca-nhan\\QLCN\\QLCN.csproj",
       "packagesPath": "C:\\Users\\OAI-IICM\\.nuget\\packages\\",
-      "outputPath": "F:\\New folder\\QuanLyCaNhanDXH\\QLCN\\obj\\",
+      "outputPath": "F:\\New folder\\quan-ly-ca-nhan\\QLCN\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\OAI-IICM\\AppData\\Roaming\\NuGet\\NuGet.Config",

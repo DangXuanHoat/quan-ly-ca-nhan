@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLCN", "QLCN\QLCN.csproj", "{933F406E-6801-4623-9C4D-B3A5A2226BB2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QLCN", "QLCN\QLCN.csproj", "{933F406E-6801-4623-9C4D-B3A5A2226BB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLCN.Data", "QLCN.Data\QLCN.Data.csproj", "{83495B11-DD97-472B-A97C-C12FE92B1E92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLCN.Application", "QLCN.Application\QLCN.Application.csproj", "{CF7FCC6B-3D6D-4CF6-A1EE-8011EAAA9DF0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{933F406E-6801-4623-9C4D-B3A5A2226BB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{933F406E-6801-4623-9C4D-B3A5A2226BB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{933F406E-6801-4623-9C4D-B3A5A2226BB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83495B11-DD97-472B-A97C-C12FE92B1E92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83495B11-DD97-472B-A97C-C12FE92B1E92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83495B11-DD97-472B-A97C-C12FE92B1E92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83495B11-DD97-472B-A97C-C12FE92B1E92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF7FCC6B-3D6D-4CF6-A1EE-8011EAAA9DF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF7FCC6B-3D6D-4CF6-A1EE-8011EAAA9DF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF7FCC6B-3D6D-4CF6-A1EE-8011EAAA9DF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF7FCC6B-3D6D-4CF6-A1EE-8011EAAA9DF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
